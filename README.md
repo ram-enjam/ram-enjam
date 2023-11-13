@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ram-enjam
-- 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning Angular, PHP.
+- 👀 Intrested in Software Development.
+- 🌱 expertised in Java Full Stack development, Java, MySQL, php, node.js, Angular.
 - 💞️ I’m looking to collaborate on .
 - 📫 How to reach me ...
 
